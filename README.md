@@ -24,7 +24,7 @@
 >> pip install pandas
 
 # How to use this application:
-1. Find the downloaded file in the console and use the command "python csv_dominik_dusza.py"
+1. Find the downloaded file in the console and use the command "Statistics_application.py"
 2. Enter "localhost: 5000" in the browser
 3. Click on "Select File" and select the csv file you want to analyze.
 4. Now you have your browser and file statistics on your computer. Save this file with the name you want to save.
