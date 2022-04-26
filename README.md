@@ -2,7 +2,7 @@
 ![image](https://user-images.githubusercontent.com/103564888/165227836-bde78927-4499-46ed-a601-048ef7268920.png)
 
 
-1. What you can calculate:
+# What you can calculate:
 
 -Number of rows
 
@@ -18,7 +18,7 @@
 
 -90th and 10th percentiles in columns
 
-## What you need to install:
+# What you need to install:
 1. Install the flask and pandas in your cmd:
 
 >> pip installation flask
