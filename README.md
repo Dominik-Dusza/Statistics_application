@@ -1,4 +1,6 @@
 # Statistics_application
+![image](https://user-images.githubusercontent.com/103564888/165227836-bde78927-4499-46ed-a601-048ef7268920.png)
+
 
 1. What you can calculate:
 
