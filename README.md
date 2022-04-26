@@ -17,7 +17,7 @@
 -90th and 10th percentiles in columns
 
 # What you need to install:
-1. Install the stock and pandas in your cmd:
+1. Install the flask and pandas in your cmd:
 
 >> pip installation flask
 
